@@ -1,3 +1,5 @@
+Worradorn Sangong 1650706425
+
 # CalculatorApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
